@@ -24,5 +24,5 @@ The Contact App is a modern web application developed using React.js and other c
 
 **•	Firebase:** Firebase serves as the backend and database for the app. It offers real-time data synchronization, user authentication, and secure data storage.
 
-The Contact App aims to be a robust and user-centric solution for efficiently managing contact information. It will continue to evolve and adapt to user needs and technological advancements, ensuring a top-notch experience for all users.
+The Contact App aims to be a robust and user-centric solution for efficiently managing contact information. It will continue to evolve and adapt to user needs and technological advancements, ensuring a top-notch experience for all users..
 
